@@ -1,0 +1,19 @@
+#images_block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.image_text{
+    width: 90%;
+    padding: 25px;
+    font-size: 18px;
+    text-align: left;
+    margin: auto;
+}
+.image{
+    height: auto;
+    width: 90%;
+    margin: 5px 0;
+    box-shadow: 0 0 3px black;
+}

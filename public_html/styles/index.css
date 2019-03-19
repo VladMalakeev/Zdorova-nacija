@@ -1,0 +1,10 @@
+body{
+    padding:  10px;
+}
+
+.caption{
+    font-family: 'Alice', serif;
+    text-align: center;
+    padding: 15px;
+    color: #4b4b4b;
+}

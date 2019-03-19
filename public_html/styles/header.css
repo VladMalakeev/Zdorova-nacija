@@ -1,0 +1,14 @@
+#header{
+    border-bottom: 2px solid rgba(0, 0, 0, 0.8);
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+
+}
+#header h1,h2{
+    font-family: 'Neucha', cursive;
+    font-size: 40px;
+    color: #535251;
+    margin: 0;
+    letter-spacing: 2px;
+}

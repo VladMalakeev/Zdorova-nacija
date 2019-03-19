@@ -1,0 +1,13 @@
+#video{
+    margin-bottom: 10px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+
+}
+
+#video iframe{
+    width: 700px;
+    height: 400px;
+}
+

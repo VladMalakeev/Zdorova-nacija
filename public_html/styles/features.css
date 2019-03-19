@@ -1,0 +1,29 @@
+#features{
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 25px;
+}
+
+.feature_element{
+    width: 340px;
+    height: auto;
+    margin: 10px 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+}
+
+.feature_photo img{
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+
+.feature_text{
+    margin: 5px;
+    font-size: 18px;
+    text-align: left;
+}

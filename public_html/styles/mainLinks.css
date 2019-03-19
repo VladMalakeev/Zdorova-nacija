@@ -1,0 +1,32 @@
+#mainLinks{
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#mainLinks a{
+    padding: 20px;
+    width: 350px;
+    margin: 15px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: 1px 1px 3px black;
+}
+
+#viber{
+    background: #8B50A4;
+    border-radius: 10px;
+}
+#telegram{
+    background:#37AEE2;
+    border-radius: 10px;
+}
+#viber:hover{
+    color: yellow;
+}
+#telegram:hover{
+    color: yellow;
+}

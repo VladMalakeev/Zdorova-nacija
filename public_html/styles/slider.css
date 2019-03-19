@@ -1,0 +1,30 @@
+#slider{
+   box-shadow: 0 0 3px black;
+    margin-bottom: 10px;
+    position: relative;
+}
+.img_block{
+    background-position: bottom;
+    background-size: cover;
+    height: 85vh;
+}
+.clour_block{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.46),  rgba(255, 255, 255, 0),rgba(255, 255, 255, 0));
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-caption h5{
+    font-size: 42px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 3px 3px 4px black;
+}
+
+.carousel-caption p{
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 3px 3px 3px #000000;
+    color: white;
+}
+
